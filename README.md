@@ -1,10 +1,5 @@
-### Hi there 👋
-
 <!--
-**shubh9457/shubh9457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +9,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/shubh-saxena/
+[instagram]: https://www.instagram.com/__shubhsaxena__/
+[facebook]: https://www.facebook.com/shubhsaxena.06
+[medium]: https://medium.com/@shubhsaxena
+
+[1]: https://github.com/shubh9457/shubh9457/blob/main/LinkedIn.png
+[2]: https://github.com/shubh9457/shubh9457/blob/main/Instagram.png
+[3]: https://github.com/shubh9457/shubh9457/blob/main/Facebook.png
+[4]: https://github.com/shubh9457/shubh9457/blob/main/Medium.png
 
 
 ## Hi there 👋🏻. I am [_Shubh Saxena_]. Here is a bit of intro about me - 
@@ -33,23 +38,13 @@ State Level **Football Player**.
 ---
 
 ### Connect with me @
-[![linkedin_logo][LinkedIn]][linkedin] 
-[![instagram_logo][Instagram]][instagram] 
-[![facebook_logo][Facebook]][facebook] 
-[![medium_logo][Medium]][medium]
+[![linkedin_logo][1]][linkedin] 
+[![instagram_logo][2]][instagram] 
+[![facebook_logo][3]][facebook] 
+[![medium_logo][4]][medium]
 
 ---
 
 ![Shubh's Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh9457&hide_border=true&theme=radical)
 
 ![Shubh's Github stats](https://github-readme-stats.vercel.app/api?username=shubh9457&count_private=true&show_icons=true&hide_border=true&theme=radical)
-
-[linkedin]: https://www.linkedin.com/in/shubh-saxena/
-[instagram]: https://www.instagram.com/__shubhsaxena__/
-[facebook]: https://www.facebook.com/shubhsaxena.06
-[medium]: https://medium.com/@shubhsaxena
-
-[LinkedIn]: https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png
-[Facebook]: https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-512.png
-[Instagram]: https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png
-[Medium]: https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png
