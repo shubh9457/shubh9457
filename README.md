@@ -21,7 +21,7 @@ Hi there 👋
 [4]: https://github.com/shubh9457/shubh9457/blob/main/Medium.png
 
 
-## Hi there 👋🏻. I am [_Shubh Saxena_]. Here is a bit of intro about me - 
+## Hi there 👋🏻. I am _Shubh Saxena_. Here is a bit of intro about me - 
 
 - Working as Software Engineer at _DLT Labs_.
 - Completed BTech (**_Computer Science_**) from _Ajay Kumar Garg Engineering College_.
