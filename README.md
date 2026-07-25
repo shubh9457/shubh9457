@@ -35,7 +35,7 @@
 
 ### 🚀 Featured Work
 
-- **[high-scale-search](https://github.com/shubh9457/high-scale-search)** — Go-based exploration of high-throughput search/query patterns over large datasets, in the same spirit as the CRM segmentation engines I've built professionally
+- **[high-scale-search](https://github.com/shubh9457/high-scale-search)** — Go search orchestration service designed for 10B+ records at sub-200ms p99 latency, unifying Elasticsearch, ClickHouse, Firestore, Redis, and Kafka behind a fault-tolerant pipeline
 - **Segmentation Engine (CRM, professional work)** — abstracted query engine joining ClickHouse, PostgreSQL, Redis, and MongoDB on the fly with sub-second latencies, solving dynamic segmentation at 100M+ contact scale with no predefined schema contracts
 - **Plant Disease Classification (Android + TensorFlow Lite)** — hackathon project (CDAC, Hyderabad) enabling real-time, offline plant disease detection from leaf images on-device
 - **[Pay_slip_generation](https://github.com/shubh9457/Pay_slip_generation)** — backend service for generating employee salary/taxation records
@@ -43,9 +43,11 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✍️ Writing on Medium
+
+- [Convolutional Neural Network — A brief introduction](https://medium.com/becoming-human/convolutional-neural-network-a-brief-introduction-c044302b3271)
+- [Understanding Activation Function. Working and Use in ANN!](https://medium.com/becoming-human/understanding-activation-function-working-and-use-in-ann-2bdacdd1a069)
+- [Artificial Neuron Networks (Basics) | Introduction to Neural Networks](https://medium.com/becoming-human/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c)
 
 ---
 
