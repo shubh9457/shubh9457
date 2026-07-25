@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh9457&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Shubh's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh9457&hide_border=true&theme=radical&layout=compact" alt="Shubh's Top Languages" height="165"/>
+  <img src="https://img.shields.io/github/followers/shubh9457?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shubh9457?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 <p align="center">
